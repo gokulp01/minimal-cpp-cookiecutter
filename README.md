@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="logo-removebg-preview.png" alt="Logo" width="140" height="140">
+    <img src="logo.png" alt="Logo" width="140" height="140">
   </a>
 
 <h3 align="center">Simple C++ Cookiecutter</h3>

@@ -1,0 +1,10 @@
+{
+	"full_name": "Gokul",
+	"email": "gokulgns@gmail.com",
+	"github_username": "gokulp01",
+	"project_name": "Your Project Name",
+	"repo_name": "repo_name",
+	"project_short_description": "A cookiecutter template for a simple C++ project.",
+	"year": "2024",
+	"version": "0.1.0"
+}

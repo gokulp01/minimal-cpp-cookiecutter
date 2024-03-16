@@ -190,8 +190,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/gokulp01) - gokulp2@illinois.edu/gokulgns@gmail.com
+Gokul Puthumanaillam - [@twitter_handle](https://twitter.com/gokulp01) - gokulp2@illinois.edu/gokulgns@gmail.com
 
+Website - gokulp01.github.io
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

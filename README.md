@@ -90,9 +90,9 @@ sudo apt-get update
 sudo apt-get install cmake
 ```
 For Windows:
-```
-For Windows, download and run the installer from the [CMake official website](https://cmake.org/download/).
-```
+
+Download and run the installer from the [CMake official website](https://cmake.org/download/).
+
 
 #### Cookiecutter
 To install Cookiecutter, you need Python installed on your system. Then, you can install Cookiecutter using pip:
@@ -107,8 +107,6 @@ pip install cookiecutter
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-### Usage
 
 To create a new C++ project using this template, follow these steps:
 

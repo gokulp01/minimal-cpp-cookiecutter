@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/gokulp01/minimal-cpp-cookiecutter">
     <img src="logo.png" alt="Logo" width="140" height="140">
   </a>
 

@@ -1,2 +1,6 @@
 CompileFlags:
-  Add: [-I/opt/homebrew/include/eigen3]
+  Add:
+    - "-std=c++17"
+    - "-I/opt/homebrew/include"
+    - "-I/opt/homebrew/include/boost"
+    - "-I/opt/homebrew/include/eigen3"
